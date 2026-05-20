@@ -1,1 +1,1 @@
-# Gemini_AI_Training
+# inventory-app
